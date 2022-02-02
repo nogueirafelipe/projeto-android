@@ -1,5 +1,3 @@
-# projeto-android
-
 # Endereço do site: 
 [nogueirafelipe.github.io/projeto-android](https://nogueirafelipe.github.io/projeto-android/)
 
