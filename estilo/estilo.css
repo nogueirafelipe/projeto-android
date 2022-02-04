@@ -60,8 +60,7 @@ header > p {
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.459);
     margin: auto;
     max-width: 600px;
-    padding-right: 10px;
-    padding-left: 10px;
+    padding: 10px 10px 40px 10px;
 }
 
 nav {
